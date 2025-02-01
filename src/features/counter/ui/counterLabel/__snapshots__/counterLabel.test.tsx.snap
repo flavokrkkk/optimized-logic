@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterLabel should match snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="btn primary medium enabled"
+  >
+    <span
+      class="content-group"
+    >
+      Counter
+    </span>
+    <div
+      class="counter primary size-16"
+    >
+      <span
+        class="counter-quantity"
+      >
+        0
+      </span>
+    </div>
+  </button>
+</DocumentFragment>
+`;
